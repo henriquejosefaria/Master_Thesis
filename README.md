@@ -9,10 +9,11 @@ Additionally, I implemented a successful attack against the SPHINCS+ scheme with
 
 Results:
 
-	-PICNIC: Applying either ASCON or SKINNY results in faster signatures than the original cipher but double the signature size.
 
-	-SPHNICS+: ASCON provides faster signing speeds.
+1. PICNIC: Applying either ASCON or SKINNY results in faster signatures than the original cipher but double the signature size.
 
-	-SPHINCS+ Attack: The time it takes to forge one signature for a hypertree of size 28 is five days.
+2. SPHNICS+: ASCON provides faster signing speeds.
+
+3. SPHINCS+ Attack: The time it takes to forge one signature for a hypertree of size 28 is five days.
 
 

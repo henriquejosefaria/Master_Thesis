@@ -1,4 +1,4 @@
-# POST-QUANTUM CRYPTOGRAPHY TO LOW-END DEVICES
+## POST-QUANTUM CRYPTOGRAPHY FOR LOW-END DEVICES
 
 All the implementations in this repository constitute a first step towards providing "low-end" devices with post-quantum security. 
 
